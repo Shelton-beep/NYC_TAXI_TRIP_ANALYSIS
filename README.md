@@ -57,8 +57,8 @@ Getting Started
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/Shelton-beep/NYC_Taxi_Trip_Analysis.git
-   cd NYC_Taxi_Trip_Analysis
+   git clone https://github.com/Shelton-beep/NYC_TAXI_TRIP_ANALYSIS.git
+   cd NYC_TAXI_TRIP_ANALYSIS
    ```
 
 2. Download the NYC Taxi Data:
